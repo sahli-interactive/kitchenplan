@@ -5,7 +5,7 @@ recipes:
         - osxdefaults::set_computer_name
 attributes:
     osxdefaults:
-        computername: sahli-interactive-m43nu
+        computername: sahli-interactive-loris
     homebrewalt:
         apps:
             - git-extras
